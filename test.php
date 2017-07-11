@@ -12,13 +12,12 @@
  * @author aneesh
  */
 class test {
-    //put your code here
-}
 
-class test22 extends test {
-    
-}
+    function index() {
+        echo "test";
+        //tetststs
+        echo "hii";
+    }
 
-class test3 extends test{
-    
+//put your code here
 }
