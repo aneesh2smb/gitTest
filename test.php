@@ -14,3 +14,11 @@
 class test {
     //put your code here
 }
+
+class test22 extends test {
+    
+}
+
+class test3 extends test{
+    
+}
